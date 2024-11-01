@@ -1,0 +1,14 @@
+.tumblr-postbox { float: left; }
+.tumblr-postbox fieldset { padding: 2em; border: 1px solid #ddd; border-radius: 6px; margin: 0 0 2em 0; }
+.tumblr-postbox legend { font-weight: bold; }
+.tumblr-postbox .description { margin: 0 0 2em 0; }
+.tumblr-postbox .inside { padding: 2em; }
+.tumblr-postbox ul { margin-bottom: 1.5em;  float: left; }
+.tumblr-postbox li { display: inline; float: left; margin: 0 2em 0 0; }
+.tumblr-postbox input { float: left; margin: 4px 6px 0 0; }
+.tumblr-postbox img {  }
+.tumblr-postbox .left { float: left; }
+.tumblr-postbox .right { float: right; }
+.tumblr-for-wordpress-heading { margin: 0; padding: 1em; }
+.tumblr-button-option { float: left; width: 100%; }
+.tumblr-button-option input { float: left; margin: 2px 5px 0 0; }

@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tumblr Button For WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-10 06:17-0500\n"
+"PO-Revision-Date: 2011-05-10 06:17-0500\n"
+"Last-Translator: \n"
+"Language-Team: Tom McFarlin <tom@tommcfarlin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../views/admin.php:6
+msgid "Tumblr Button For WordPress"
+msgstr ""
+
+#: ../views/admin.php:10
+msgid "Select Your Button"
+msgstr ""
+
+#: ../views/admin.php:15
+msgid "Buttons"
+msgstr ""
+
+#: ../views/admin.php:18
+msgid "Tumblr Button for WordPress makes it easy to include the Tumblr Sharing button at the bottom of each of your individual posts. Select your button, save, and you're done!"
+msgstr ""
+
+#: ../views/admin.php:26
+#: ../views/admin.php:28
+msgid "Share on Tumblr"
+msgstr ""
+
+#: ../views/admin.php:35
+msgid "Save"
+msgstr ""
+
+#: ../views/admin.php:41
+msgid "Feel free to <a href=\"http://twitter.com/moretom\">follow me on Twitter</a> or <a href=\"http://tommcfarlin.com\">drop by my website</a>, or check out the rest of my plugins <a href=\"http://profiles.wordpress.org/users/tommcfarlin/\">here</a>."
+msgstr ""
+
